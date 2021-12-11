@@ -1,0 +1,16 @@
+PODS:
+  - XFNetworking (0.1.0)
+
+DEPENDENCIES:
+  - XFNetworking (from `Lib/XFNetworking`)
+
+EXTERNAL SOURCES:
+  XFNetworking:
+    :path: Lib/XFNetworking
+
+SPEC CHECKSUMS:
+  XFNetworking: f58bec976d6b873762b0268c59881ab0295e47fc
+
+PODFILE CHECKSUM: 31745aaf1a605d6414f6d4ff3a3e462383cfd21d
+
+COCOAPODS: 1.10.0
